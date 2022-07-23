@@ -1,0 +1,7 @@
+Django==3.2
+django-cms
+django-filer
+djangocms-text-ckeditor
+flake8
+python-dotenv
+psycopg2
